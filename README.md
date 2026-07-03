@@ -1,6 +1,6 @@
-﻿# RAG 项目 - 检索增强生成系统学习项目
+﻿# RAG 项目 - 检索增强生成系统
 
-> 基于 LangChain 和 LangGraph 构建的智能问答系统学习项目，支持多会话管理和对话历史持久化
+> 基于 LangChain 和 LangGraph 构建的智能问答系统，支持多会话管理和对话历史持久化
 <img width="753" height="913" alt="image" src="https://github.com/user-attachments/assets/89d318cf-ce01-455b-8c74-9ce77503d1d5" />
 
 
@@ -8,7 +8,7 @@
 
 ## 项目简介
 
-本项目是一个基于 **RAG（Retrieval-Augmented Generation）** 技术的智能问答系统学习项目，能够根据用户的提问从知识库中检索相关文档，并结合大语言模型生成准确、专业的回答。
+本项目是一个基于 **RAG（Retrieval-Augmented Generation）** 技术的智能问答系统，能够根据用户的提问从知识库中检索相关文档，并结合大语言模型生成准确、专业的回答。
 
 ### 主要功能
 
