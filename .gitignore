@@ -179,3 +179,42 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+
+# ======================
+# RAG / LLM 专用规则
+# ======================
+
+# 向量数据库
+chroma_db/
+faiss_index/
+milvus/
+qdrant/
+
+# 本地数据库
+*.db
+*.sqlite
+*.duckdb
+
+# 模型权重
+*.bin
+*.gguf
+*.pt
+*.pth
+*.safetensors
+
+# 数据 & 文档
+data/
+docs/
+pdfs/
+raw/
+
+# 语料 / 中间结果
+*.jsonl
+*.parquet
+*.csv
+
+# 日志
+logs/
+
