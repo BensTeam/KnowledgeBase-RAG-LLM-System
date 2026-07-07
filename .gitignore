@@ -218,3 +218,8 @@ raw/
 # 日志
 logs/
 
+/.idea
+*.db
+*.bin
+*.bin
+*.sqlite3
